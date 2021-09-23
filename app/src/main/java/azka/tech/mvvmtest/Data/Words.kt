@@ -1,7 +1,6 @@
 package azka.tech.mvvmtest.Data
 
 import java.util.*
-import kotlin.random.Random
 import kotlin.random.Random.Default.nextInt
 
 /*
@@ -59,11 +58,11 @@ class Words {
         var randomlySelectedItems: MutableList<String> = mutableListOf()
         var randomIndex: Int
 
-        for (i in 1..10) {
+        for (i in 1..words.size) {
             randomIndex = nextInt(words.size)
             randomlySelectedItems.add(words[randomIndex])
         }
-
+git
         return randomlySelectedItems.joinToString(separator = " ")
     }
 }

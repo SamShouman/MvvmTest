@@ -13,8 +13,7 @@ import azka.tech.mvvmtest.R
 import azka.tech.mvvmtest.ViewModels.MainActivityViewModel
 import kotlin.math.round
 
-
-/*UI PAGE: EVERYTHING RELATED TO LISTENERS ON VIEWS/WIDGETS OR MANIPULATION OF THEM WILL BE PLACED HERE*/
+/* UI PAGE: EVERYTHING RELATED TO LISTENERS ON VIEWS/WIDGETS OR MANIPULATION OF THEM WILL BE PLACED HERE */
 
 class MainActivity : AppCompatActivity() {
     private lateinit var minutesLnrLyt: LinearLayout
