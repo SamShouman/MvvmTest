@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MvvmTest</string>
+    <string name="paragraph">Paragraph</string>
+    <string name="submit">Submit</string>
+    <string name="_1_minute">1 Min.</string>
+    <string name="_2_minutes">2 Min.</string>
+    <string name="_5_minutes">5 Min.</string>
+    <string name="custom">Custom</string>
+    <string name="your_text_goes_here">Your text goes here</string>
+    <string name="speed_type_test">Speed Type Test</string>
+</resources>
