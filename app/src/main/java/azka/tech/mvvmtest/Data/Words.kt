@@ -62,7 +62,6 @@ class Words {
             randomIndex = nextInt(words.size)
             randomlySelectedItems.add(words[randomIndex])
         }
-git
         return randomlySelectedItems.joinToString(separator = " ")
     }
 }
